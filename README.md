@@ -11,7 +11,7 @@ Whether powering remote flood monitoring sites, rain gauges, water level sensors
 |------|----------------|----------------|-----------------|----------------|
 | **Hyphen Elemental 4060XR** | 3× 18650 (3S) | ~12.6V max | Solar + Aux | High-power deployments, long endurance, satellite uplinks, multiple sensor payloads |
 | **Hyphen Elemental 4050XR** | 2× 18650 (2S) | ~8.4V max | Solar + Aux | General environmental sensing, remote stations, water-level sensors |
-| **Elemental4 Breakout Board** | N/A | 3.3V logic | Powered from your MCU / Solar board | Rapid prototyping, sensor integration, low-power analytics |
+| **Elemental4 Breakout Board** | N/A | 5V logic | Powered from your MCU / Solar board | Rapid prototyping, sensor integration, low-power analytics |
 
 ---
 
